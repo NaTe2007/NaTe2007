@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @NaTe2007
-- 🌱 I’m currently learning Js - Html - Css
-- 📫 How to reach me?
-Discord - NaTe#2007
+Hi, I'm NaTe
+Backend Develper
+Protoflio - 
 
 <!---
 NaTe2007/NaTe2007 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
